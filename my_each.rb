@@ -1,4 +1,3 @@
-def my_each # put argument(s) here
-  # code here
-  yield
+def my_each(collection) # put argument(s) here
+  while
 end
